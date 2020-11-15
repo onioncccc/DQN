@@ -7,3 +7,6 @@ opinionated styles of coding.
 And here are some pre-trained weights that you can play with:
 - [model_weights_a](https://github.com/lukeluocn/dqn-breakout/releases/download/v0.0.0/model_weights_a)
 - [model_weights_b](https://github.com/lukeluocn/dqn-breakout/releases/download/v0.0.0/model_weights_b)
+
+bonus
+we add deuling-DQN to the model and you can choose witch model to use in the Agent.
